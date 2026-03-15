@@ -16,4 +16,4 @@ class CinemaHall:
         for people in customers:
             people.watch_movie(movie_name)
         print(f"\"{movie_name}\" ended.")
-        cleaning_staff.cleдan_hall(self.number)
+        cleaning_staff.clean_hall(self.number)
